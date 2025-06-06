@@ -104,7 +104,7 @@ python -m spacy download en_core_web_sm
 ```
 
 ### 3. Run the analysis notebook
-Open and run the Jupyter notebook main_analysis.py to reproduce the analysis and visualizations.
+Open and run the Jupyter notebook ```Reddit Data and Network Analysis.py``` to reproduce the analysis and visualizations.
 
 ---
 
